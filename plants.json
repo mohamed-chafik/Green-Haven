@@ -1,0 +1,1146 @@
+[
+  {
+    "id": "1",
+    "name": "Hygrophila corymbosa",
+    "description": "A popular aquatic plant with tall, vibrant green leaves, often used in aquariums.",
+    "specifics": {
+      "sun_exposure": "Partial sun",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Indoor and Outdoor",
+      "growth_habit": "Bushy",
+      "max_height": "24 inches",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Trim regularly to maintain bushy growth.",
+      "Avoid sudden temperature changes."
+    ],
+    "distribution": "Native to Southeast Asia",
+    "images": [
+      "/assets/images/imagegen.jpeg",
+      "/assets/images/imagegen1.jpeg"
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Ficus lyrata",
+    "description": "Known as the fiddle-leaf fig, it has large, glossy, fiddle-shaped leaves.",
+    "specifics": {
+      "sun_exposure": "Bright, indirect sunlight",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": true,
+      "suitable_for": "Indoor",
+      "growth_habit": "Upright",
+      "max_height": "10 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Slow"
+    },
+    "tips": [
+      "Rotate the plant regularly for even growth.",
+      "Avoid overwatering; allow the top inch of soil to dry out."
+    ],
+    "distribution": "Native to Western Africa",
+    "images": [
+      "https://tohgarden.com/wp-content/uploads/2021/02/160597941_463558525003262_3468801024450206239_n.jpg",
+      "https://bowoodfarms.com/cdn/shop/products/Ficus-Lyrata-STD-10_2048x.png?v=1601927135"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Lavandula angustifolia",
+    "description": "A fragrant herb known for its purple flowers and calming aroma.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Shrubby",
+      "max_height": "3 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Prune back in the fall to promote growth.",
+      "Prefers well-drained soil to avoid root rot."
+    ],
+    "distribution": "Native to the Mediterranean",
+    "images": [
+      "https://www.bomagardencentre.co.uk/files/images/webshop/lavandula-angustifolia-munstead-english-lavender-1024x1024-64b65191e433b_n.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtY5DDQLHV8pMVHVjl-WlituzhZgtXUr0JUg&s"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Aloe vera",
+    "description": "A succulent plant with medicinal properties, known for its thick, fleshy leaves.",
+    "specifics": {
+      "sun_exposure": "Full sun to partial shade",
+      "watering": "Infrequent",
+      "fruit": false,
+      "poisonous_to_pets": true,
+      "suitable_for": "Indoor and Outdoor",
+      "growth_habit": "Rosette",
+      "max_height": "2 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Slow"
+    },
+    "tips": [
+      "Water sparingly; too much water can lead to root rot.",
+      "Place in a sunny spot for best growth."
+    ],
+    "distribution": "Native to the Arabian Peninsula",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCl3AtMewWq9J3w6LMiNyVOYgS7fUaaaOQog&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYW-XrWPkGER_H36hjurtGZvFwErJ6RviDQ&s"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Monstera deliciosa",
+    "description": "An eye-catching plant with large, split leaves; commonly known as the Swiss cheese plant.",
+    "specifics": {
+      "sun_exposure": "Partial sun to shade",
+      "watering": "Average",
+      "fruit": true,
+      "poisonous_to_pets": true,
+      "suitable_for": "Indoor",
+      "growth_habit": "Climbing",
+      "max_height": "10 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Keep in a humid environment for best growth.",
+      "Support with a moss pole for climbing."
+    ],
+    "distribution": "Native to tropical forests of Central America",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7We4bvbqBEbgTEMWIZ2NT6naX7mhzmGdl5A&s",
+      "https://www.ugaoo.com/cdn/shop/files/9_dac1c33d-00f2-469a-81f9-287d72f67a38.jpg?v=1710232846&width=1500"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Rosa rubiginosa",
+    "description": "A wild rose species with pink blooms and fragrant leaves.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Average",
+      "fruit": true,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Shrubby",
+      "max_height": "6 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Prune annually to encourage new blooms.",
+      "Ensure soil has good drainage to prevent root rot."
+    ],
+    "distribution": "Native to Europe and Western Asia",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBXy48jJVLHcyllGVfRGBPgYQ6Hv5KihFAw&s",
+      "https://images.immediate.co.uk/production/volatile/sites/10/2022/03/2048x1365-Rosa-rubiginosa-SEO-GettyImages-1248161866-67da3ca.jpeg"
+    ]
+  },
+  {
+    "id": "7",
+    "name": "Echinacea purpurea",
+    "description": "A flowering plant known as purple coneflower, valued for its medicinal properties.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Upright",
+      "max_height": "4 feet",
+      "has_cones": true,
+      "care_level": "Easy",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Deadhead flowers to extend blooming season.",
+      "Ideal for pollinator gardens."
+    ],
+    "distribution": "Native to North America",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVVH7eODkzJy4kI_F64J7-ZeHbLAeGUbCZg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jQKDV1hnR_a3viuDAA2JM94SEiVCN1Fmgg&s"
+    ]
+  },
+  {
+    "id": "8",
+    "name": "Calathea orbifolia",
+    "description": "A tropical houseplant with large, round leaves and striking silver stripes.",
+    "specifics": {
+      "sun_exposure": "Indirect light",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Indoor",
+      "growth_habit": "Bushy",
+      "max_height": "2 feet",
+      "has_cones": false,
+      "care_level": "High",
+      "growth_rate": "Slow"
+    },
+    "tips": [
+      "Keep soil consistently moist and maintain high humidity.",
+      "Avoid direct sunlight to prevent leaf burn."
+    ],
+    "distribution": "Native to Bolivia",
+    "images": [
+      "https://www.thespruce.com/thmb/AP7NCraYKlBklvtoVNot5Mnb-aQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/calathea-orbifolia-growing-guide-5270824-07-d2b51522ee184d5c8f2d5de8fcf15101.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWz7AyD-1gAKDrAn9BWM2VZyXe5QxBIIiXjA&s"
+    ]
+  },
+  {
+    "id": "9",
+    "name": "Mentha spicata",
+    "description": "Commonly known as spearmint, this herb has a refreshing aroma and culinary uses.",
+    "specifics": {
+      "sun_exposure": "Partial sun to full sun",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Spreading",
+      "max_height": "1 foot",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Prune regularly to prevent spreading.",
+      "Ideal for container planting to control growth."
+    ],
+    "distribution": "Native to Europe and Asia",
+    "images": [
+      "https://www.gardenia.net/wp-content/uploads/2023/04/NQpWP4wQGmuUTU3ESFfl7qGYeXABT7n2PV21IWKT-780x520.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl4Q9OE14E2yJ_nFEplFqbWh_hIGoRHuJKg&s"
+    ]
+  },
+  {
+    "id": "10",
+    "name": "Acer palmatum",
+    "description": "Also known as Japanese maple, it has beautifully colored foliage, especially in fall.",
+    "specifics": {
+      "sun_exposure": "Partial sun to full sun",
+      "watering": "Average",
+      "fruit": true,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Tree",
+      "max_height": "20 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Slow"
+    },
+    "tips": [
+      "Protect from strong winds to prevent leaf damage.",
+      "Prefers well-drained, slightly acidic soil."
+    ],
+    "distribution": "Native to Japan, China, and Korea",
+    "images": [
+      "https://cdn11.bigcommerce.com/s-sv0chyyd/images/stencil/1280x1280/products/1260/1852/Japanese_Maple__35536.1554458580.jpg?c=2",
+      "https://majestictrees.co.uk/cdn/shop/files/10040-acer-palmatum-dissectum-ornatum-8-600x600.jpg?v=1714124143&width=1445"
+    ]
+  },
+  {
+    "id": "11",
+    "name": "Agave americana",
+    "description": "Known as century plant, this succulent has sharp, spiny leaves and grows in a rosette form.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Infrequent",
+      "fruit": true,
+      "poisonous_to_pets": true,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Rosette",
+      "max_height": "10 feet",
+      "has_cones": false,
+      "care_level": "Low",
+      "growth_rate": "Slow"
+    },
+    "tips": [
+      "Allow soil to dry completely between waterings.",
+      "Handle with care due to sharp spines."
+    ],
+    "distribution": "Native to Mexico",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjwSJ1a5nRG4xmR-j0BuSwRmWLrqLV8b1vg&s",
+      "https://www.clorofila.ma/wp-content/uploads/2023/03/5048481606_22d74dc696_b-2.jpg"
+    ]
+  },
+  {
+    "id": "12",
+    "name": "Tulipa gesneriana",
+    "description": "A popular spring bulb known as the garden tulip with vibrant, colorful blooms.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": true,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Upright",
+      "max_height": "1.5 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Plant bulbs in the fall for spring blooms.",
+      "Ensure well-drained soil to prevent bulb rot."
+    ],
+    "distribution": "Native to Central Asia",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWSwfOq4H6_BGq5sz8knnv8SQmue_KaDGtQ&s",
+      "https://t3.ftcdn.net/jpg/05/07/15/92/360_F_507159235_QggKMiich33jMIJQ8ZuoMK4V0lfLeJGY.jpg"
+    ]
+  },
+  {
+    "id": "13",
+    "name": "Sansevieria trifasciata",
+    "description": "Commonly known as snake plant, it's a hardy indoor plant with upright, sword-like leaves.",
+    "specifics": {
+      "sun_exposure": "Indirect light to full sun",
+      "watering": "Infrequent",
+      "fruit": false,
+      "poisonous_to_pets": true,
+      "suitable_for": "Indoor and Outdoor",
+      "growth_habit": "Upright",
+      "max_height": "3 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Slow"
+    },
+    "tips": [
+      "Allow soil to dry completely before watering.",
+      "Tolerates low light, making it ideal for indoors."
+    ],
+    "distribution": "Native to West Africa",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-w46oUZj89P37BL3ha094J0HqKT_HcmjBA&s",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg/1200px-Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg"
+    ]
+  },
+  {
+    "id": "14",
+    "name": "Lavandula stoechas",
+    "description": "A type of lavender with unique, tufted flower heads and a strong fragrance.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Shrubby",
+      "max_height": "2 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Prune after blooming to maintain shape.",
+      "Thrives in well-drained, sandy soil."
+    ],
+    "distribution": "Native to the Mediterranean",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcWf0gQOxQLK5Qx8VKj0Nd3Ga12NejCYmmA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbejSUoGGQDxPo1pynOoNmUkMRDg4HwPd7w&s"
+    ]
+  },
+  {
+    "id": "15",
+    "name": "Ocimum basilicum",
+    "description": "Known as basil, this herb is popular in cooking for its aromatic leaves.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Bushy",
+      "max_height": "2 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Pinch off flower buds to encourage leaf growth.",
+      "Water regularly, but avoid waterlogged soil."
+    ],
+    "distribution": "Native to tropical regions of Central Africa and Southeast Asia",
+    "images": [
+      "https://www.monaconatureencyclopedia.com/wp-content/uploads/2008/08/1-115.jpg",
+      "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/2274/688015ee62074cef86f35b62a3233f9f.jpg"
+    ]
+  },
+  {
+    "id": "16",
+    "name": "Helianthus annuus",
+    "description": "Commonly known as sunflower, it is famous for its large, bright yellow flowers.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Average",
+      "fruit": true,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Upright",
+      "max_height": "10 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Provide sturdy support for tall varieties.",
+      "Deadhead to prolong blooming."
+    ],
+    "distribution": "Native to North America",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97EX_3Ky_ousYzwj8n92fKtqVUSSU53xVSw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXi_TU55UjYmmSoNBlvoe_jSoV_VnhCzO9ug&s"
+    ]
+  },
+  {
+    "id": "17",
+    "name": "Alocasia amazonica",
+    "description": "Known as elephant ear plant, it has striking arrow-shaped leaves with white veins.",
+    "specifics": {
+      "sun_exposure": "Indirect light",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": true,
+      "suitable_for": "Indoor",
+      "growth_habit": "Upright",
+      "max_height": "3 feet",
+      "has_cones": false,
+      "care_level": "High",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Maintain high humidity to prevent leaf edges from browning.",
+      "Avoid direct sunlight, which can burn leaves."
+    ],
+    "distribution": "Hybrid species, often cultivated as a houseplant",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCADPTtJBSbEbr-gn3Z0QD50fX3qgoyRXY6A&s",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/shutterstock_771557308Optimized-780x520.webp"
+    ]
+  },
+  {
+    "id": "18",
+    "name": "Salvia officinalis",
+    "description": "Also known as sage, a culinary herb with gray-green leaves.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Bushy",
+      "max_height": "2 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Prune after flowering to encourage new growth.",
+      "Great in well-drained soil and tolerates drought."
+    ],
+    "distribution": "Native to the Mediterranean region",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/Salvia_officinalis0.jpg",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/DFMLkwgNkSs4PNcpGXzUyuOkWUfz2WQG01sjezl5-780x520.webp"
+    ]
+  },
+  {
+    "id": "19",
+    "name": "Hibiscus rosa-sinensis",
+    "description": "A tropical plant with large, vibrant flowers, commonly used in landscaping.",
+    "specifics": {
+      "sun_exposure": "Full sun to partial shade",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Bushy",
+      "max_height": "6 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Water regularly in hot weather to promote flowering.",
+      "Protect from frost in colder climates."
+    ],
+    "distribution": "Native to East Asia",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/Hibiscus_Brilliant.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQD4X5pZl-FjsqbEj2-pcjv_60kPzELQ65lQ&s"
+    ]
+  },
+  {
+    "id": "20",
+    "name": "Chlorophytum comosum",
+    "description": "Commonly known as spider plant, it has arching green leaves with white stripes.",
+    "specifics": {
+      "sun_exposure": "Indirect light",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Indoor",
+      "growth_habit": "Clumping",
+      "max_height": "1 foot",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Allow soil to dry between waterings to prevent root rot.",
+      "Produces small plantlets, ideal for propagation."
+    ],
+    "distribution": "Native to South Africa",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUdoq9Z7VpI3-FhG5SmzzxRRjyhJeGZPkNgw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoiSAfHm54uSK3KFGPE9LmQ7_up5cWG98yQ&s"
+    ]
+  },
+  {
+    "id": "21",
+    "name": "Phalaenopsis orchid",
+    "description": "A popular orchid variety with long-lasting blooms in various colors.",
+    "specifics": {
+      "sun_exposure": "Indirect light",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Indoor",
+      "growth_habit": "Epiphytic",
+      "max_height": "2 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Slow"
+    },
+    "tips": [
+      "Water sparingly to avoid root rot.",
+      "Ideal for humid environments with indirect sunlight."
+    ],
+    "distribution": "Native to Southeast Asia",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcYZ-2PNNdLx_u72JYxlXtCJYrjT7YV1KI0g&s",
+      "https://clickorchid.com/cdn/shop/files/perceval-product-image.jpg?v=1724410514"
+    ]
+  },
+  {
+    "id": "22",
+    "name": "Zamioculcas zamiifolia",
+    "description": "Known as ZZ plant, it has thick, waxy leaves and thrives in low light.",
+    "specifics": {
+      "sun_exposure": "Low to indirect light",
+      "watering": "Infrequent",
+      "fruit": false,
+      "poisonous_to_pets": true,
+      "suitable_for": "Indoor",
+      "growth_habit": "Upright",
+      "max_height": "3 feet",
+      "has_cones": false,
+      "care_level": "Low",
+      "growth_rate": "Slow"
+    },
+    "tips": [
+      "Allow soil to dry completely between waterings.",
+      "Tolerates low light, making it a popular office plant."
+    ],
+    "distribution": "Native to East Africa",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpluaMc06UUtHP_0qibNRuCZz34WIQNCrWDA&s",
+      "https://plantsmith.co.uk/wp-content/uploads/2020/08/AdobeStock_363636424_zz-plant_1200px.jpg"
+    ]
+  },
+  {
+    "id": "23",
+    "name": "Monstera deliciosa",
+    "description": "A large-leaved plant with unique holes, often called the Swiss cheese plant.",
+    "specifics": {
+      "sun_exposure": "Indirect light",
+      "watering": "Average",
+      "fruit": true,
+      "poisonous_to_pets": true,
+      "suitable_for": "Indoor",
+      "growth_habit": "Vining",
+      "max_height": "10 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Provide a support pole to encourage upward growth.",
+      "Wipe leaves occasionally to remove dust."
+    ],
+    "distribution": "Native to Central America",
+    "images": [
+      "https://vermiorganics.co/cdn/shop/files/6_722e8906-5450-4496-8efe-38c627adf3f2.png?v=1702373495&width=1946",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkhUHizjw3ZXKXMBV6vvVM4OMuFDtzU_QnEg&s"
+    ]
+  },
+  {
+    "id": "24",
+    "name": "Pilea peperomioides",
+    "description": "Known as the Chinese money plant, it has round, coin-shaped leaves.",
+    "specifics": {
+      "sun_exposure": "Indirect light",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Indoor",
+      "growth_habit": "Upright",
+      "max_height": "1 foot",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Rotate plant regularly to maintain even growth.",
+      "Avoid waterlogging to prevent root rot."
+    ],
+    "distribution": "Native to Yunnan Province, China",
+    "images": [
+      "https://www.compo.de/dam/jcr:8bcb2961-a5b1-4da9-a19b-33023ce27f2f/chinese-money-plant_pilea.jpg?x=44&y=64",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR91CoNok4bSIxmJN6OnbqnGt3dyYzr5qPoHw&s"
+    ]
+  },
+  {
+    "id": "25",
+    "name": "Tradescantia zebrina",
+    "description": "Also known as wandering jew, it has striking purple and silver striped leaves.",
+    "specifics": {
+      "sun_exposure": "Indirect light",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": true,
+      "suitable_for": "Indoor",
+      "growth_habit": "Trailing",
+      "max_height": "1.5 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Pinch stems to promote bushier growth.",
+      "Ideal for hanging baskets indoors."
+    ],
+    "distribution": "Native to Mexico",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVow2f6YpyiilK41bvF2iBUkiT-fx_JjXHXA&s",
+      "https://cdn.mos.cms.futurecdn.net/WSzvGGyKsFYnp43bW8Jwc6-415-80.jpg"
+    ]
+  },
+  {
+    "id": "27",
+    "name": "Cactus opuntia",
+    "description": "Commonly known as prickly pear cactus, it features flat pads and produces colorful fruits.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Infrequent",
+      "fruit": true,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Spreading",
+      "max_height": "5 feet",
+      "has_cones": false,
+      "care_level": "Low",
+      "growth_rate": "Slow"
+    },
+    "tips": [
+      "Allow soil to dry completely between waterings.",
+      "Protect from frost to avoid damage."
+    ],
+    "distribution": "Native to the Americas",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWkoNEZagy4Ez-Qa6uVNDw6V8an5sSNnh-HQ&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx7q5KrNdG3bCN7P9orZF062qXxniG7KZo0Q&s"
+    ]
+  },
+  {
+    "id": "28",
+    "name": "Aloe vera",
+    "description": "A succulent plant known for its medicinal properties and gel-filled leaves.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Infrequent",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Indoor",
+      "growth_habit": "Upright",
+      "max_height": "3 feet",
+      "has_cones": false,
+      "care_level": "Low",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Water only when the soil is dry to the touch.",
+      "Ideal for bright, sunny windows."
+    ],
+    "distribution": "Native to the Arabian Peninsula",
+    "images": [
+      "https://img.crocdn.co.uk/images/products2/pl/20/00/02/77/pl2000027723.jpg?width=940&height=940",
+      "https://kendallsflorist.co.uk/wp-content/uploads/2016/01/Aloe-Vera-Plant-2.jpg"
+    ]
+  },
+  {
+    "id": "29",
+    "name": "Lavandula angustifolia",
+    "description": "Commonly known as English lavender, it has fragrant purple flowers and silvery foliage.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Upright",
+      "max_height": "3 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Prune regularly to promote bushiness and flowering.",
+      "Great for attracting pollinators."
+    ],
+    "distribution": "Native to the Mediterranean region",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYbSsI7sRBES0tp0MLL6mGjZRPcRk6tQovxw&s",
+      "https://www.gardenia.net/wp-content/uploads/2023/05/lavandula-angustifolia-hidcote-lavender-780x520.webp"
+    ]
+  },
+  {
+    "id": "30",
+    "name": "Bacopa monnieri",
+    "description": "Also known as Brahmi, this aquatic herb has small white flowers and is used in traditional medicine.",
+    "specifics": {
+      "sun_exposure": "Full sun to partial shade",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Spreading",
+      "max_height": "1 foot",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Keep soil consistently moist for optimal growth.",
+      "Can be grown in water or in damp soil."
+    ],
+    "distribution": "Native to India and Southeast Asia",
+    "images": [
+      "https://media.post.rvohealth.io/wp-content/uploads/2019/03/bacopa-monnieri-1200x628-facebook.jpg",
+      "https://rukminim2.flixcart.com/image/850/1000/kr58yvk0/plant-sapling/m/f/m/bacopa-monneri-plant-01-01-click-to-buy-original-imag4zr7zb2hjjvp.jpeg?q=90&crop=false"
+    ]
+  },
+  {
+    "id": "31",
+    "name": "Corymbia citriodora",
+    "description": "Known as lemon-scented gum, it has aromatic leaves and is often used for its essential oils.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Average",
+      "fruit": true,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Upright",
+      "max_height": "100 feet",
+      "has_cones": true,
+      "care_level": "Low",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Tolerates drought once established.",
+      "Prune to maintain desired shape."
+    ],
+    "distribution": "Native to Australia",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvXCEDltHYMEXdu73mKFNusSQlEiequp22gA&s",
+      "https://spectrees.s3-ap-southeast-2.amazonaws.com/8912-a822270b30/conversions/Corymbia_citriodora_dwarf_pink_for_web-small.jpg"
+    ]
+  },
+  {
+    "id": "32",
+    "name": "Olea europaea",
+    "description": "Commonly known as olive tree, it produces olives and is renowned for its hardy nature.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Infrequent",
+      "fruit": true,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Upright",
+      "max_height": "30 feet",
+      "has_cones": false,
+      "care_level": "Low",
+      "growth_rate": "Slow"
+    },
+    "tips": [
+      "Requires well-drained soil and minimal watering.",
+      "Protect from frost during winter."
+    ],
+    "distribution": "Native to the Mediterranean Basin",
+    "images": [
+      "https://www.gardenia.net/wp-content/uploads/2019/07/shutterstock_167952968-800x533.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzxqgGby77Loectz2yimpxc0GZOcbYYVTLjA&s"
+    ]
+  },
+  {
+    "id": "33",
+    "name": "Nepenthes alata",
+    "description": "A tropical pitcher plant that traps insects in its unique, tube-shaped leaves.",
+    "specifics": {
+      "sun_exposure": "Partial shade",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Indoor",
+      "growth_habit": "Vining",
+      "max_height": "3 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Slow"
+    },
+    "tips": [
+      "Keep soil moist but not waterlogged.",
+      "Use distilled water for best results."
+    ],
+    "distribution": "Native to Southeast Asia",
+    "images": [
+      "https://cdn.webshopapp.com/shops/337304/files/403761507/756x1008x3/nepenthes-pitcher-plant-alata-large-o-12-cm-x-15-c.jpg",
+      "https://nouveauraw.com/wp-content/uploads/2020/08/pitcher-plant-head-on-photo.png"
+    ]
+  },
+  {
+    "id": "34",
+    "name": "Cucumis sativus",
+    "description": "Commonly known as cucumber, it is a widely cultivated plant for its edible fruits.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Frequent",
+      "fruit": true,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Vining",
+      "max_height": "5 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Provide support for vining varieties.",
+      "Harvest regularly to encourage more growth."
+    ],
+    "distribution": "Native to South Asia",
+    "images": [
+      "https://www.shutterstock.com/image-photo/name-cucumber-flower-cucumis-sativus-600nw-2517110793.jpg",
+      "https://theworldwidevegetables.weebly.com/uploads/1/2/6/8/12680760/header_images/1441526336.jpg"
+    ]
+  },
+  {
+    "id": "35",
+    "name": "Bromelia guzmania",
+    "description": "Known for its vibrant flower spikes and rosette of leaves, ideal for bright indoor spaces.",
+    "specifics": {
+      "sun_exposure": "Indirect light",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Indoor",
+      "growth_habit": "Upright",
+      "max_height": "2 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Slow"
+    },
+    "tips": [
+      "Water the central cup formed by the leaves.",
+      "Avoid letting the plant sit in water."
+    ],
+    "distribution": "Native to tropical Americas",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKNIOhAfceijsPgaIjoarQELdg1-EI8C-qBg&s",
+      "https://cdn.mos.cms.futurecdn.net/5iyYxcmHhdWx5R8nJ6Wvbf.jpg"
+    ]
+  },
+  {
+    "id": "36",
+    "name": "Ficus lyrata",
+    "description": "Also known as fiddle leaf fig, it has large, violin-shaped leaves and is popular as a houseplant.",
+    "specifics": {
+      "sun_exposure": "Indirect light",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": true,
+      "suitable_for": "Indoor",
+      "growth_habit": "Upright",
+      "max_height": "10 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Rotate the plant regularly for even growth.",
+      "Dust leaves occasionally to keep them clean."
+    ],
+    "distribution": "Native to Western Africa",
+    "images": [
+      "https://www.decorsteals.com/cdn/shop/files/Ficus-Lyrata-600x600-1.jpg?v=1711648475",
+      "https://diana.eu-central-1.linodeobjects.com/wp-media-folder-the-palm-centre/wp-content/uploads/2021/04/FLY-8-scaled.jpg"
+    ]
+  },
+  {
+    "id": "37",
+    "name": "Anthurium andraeanum",
+    "description": "Known as flamingo flower, it features glossy, heart-shaped leaves and bright red spathes.",
+    "specifics": {
+      "sun_exposure": "Indirect light",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": true,
+      "suitable_for": "Indoor",
+      "growth_habit": "Upright",
+      "max_height": "3 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Keep humidity high for best results.",
+      "Fertilize every 6-8 weeks during growing season."
+    ],
+    "distribution": "Native to Colombia and Ecuador",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVx8iSldnCWdmDxtK_kVIrZzIscluLli5xlA&s",
+      "https://images.squarespace-cdn.com/content/v1/599ca6a3e4fcb572c84c0670/1517192684421-01DAGU3RJ1OKJP6TYOB1/FullSizeRender.jpg"
+    ]
+  },
+  {
+    "id": "38",
+    "name": "Calathea ornata",
+    "description": "Known as pinstripe plant, it has striking leaf patterns and thrives in low light.",
+    "specifics": {
+      "sun_exposure": "Indirect light",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Indoor",
+      "growth_habit": "Upright",
+      "max_height": "2 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Avoid drafts and cold temperatures.",
+      "Mist leaves regularly to maintain humidity."
+    ],
+    "distribution": "Native to South America",
+    "images": [
+      "https://www.planetnatural.com/wp-content/uploads/2023/04/calathea-ornata.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXM7qfTLr8lvW4KdC_tjTvQll6R4Vsh7CvJA&s"
+    ]
+  },
+  {
+    "id": "39",
+    "name": "Spathiphyllum wallisii",
+    "description": "Commonly known as peace lily, it has glossy leaves and produces elegant white flowers.",
+    "specifics": {
+      "sun_exposure": "Indirect light",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": true,
+      "suitable_for": "Indoor",
+      "growth_habit": "Upright",
+      "max_height": "3 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Remove spent flowers to encourage new blooms.",
+      "Can tolerate low light but thrives in brighter conditions."
+    ],
+    "distribution": "Native to the Americas and Southeast Asia",
+    "images": [
+      "https://plantsmith.co.uk/wp-content/uploads/2022/11/AdobeStock_329130937_1200px.jpg",
+      "https://www.pumpkinbeth.com/wp-content/uploads/2022/10/A9110101.jpg?v=1665419600"
+    ]
+  },
+  {
+    "id": "40",
+    "name": "Plectranthus amboinicus",
+    "description": "Also known as Cuban oregano, it has thick, aromatic leaves and is used in culinary dishes.",
+    "specifics": {
+      "sun_exposure": "Full sun to partial shade",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Upright",
+      "max_height": "2 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Prune regularly to encourage bushy growth.",
+      "Ideal for kitchen gardens."
+    ],
+    "distribution": "Native to Africa and the Indian subcontinent",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCe71KyDudofF8y2nr06-Znj-jDGuLLTBO6Q&s",
+      "https://media.istockphoto.com/id/1148390670/photo/plectranthus-amboinicus.jpg?s=612x612&w=0&k=20&c=nfe99aIatashFEfSti0XwtflSCPcGuDuVPfnk36w7qc="
+    ]
+  },
+  {
+    "id": "41",
+    "name": "Hedera helix",
+    "description": "Commonly known as English ivy, it is a versatile climbing plant that can be grown indoors or outdoors.",
+    "specifics": {
+      "sun_exposure": "Partial shade",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": true,
+      "suitable_for": "Indoor/Outdoor",
+      "growth_habit": "Climbing",
+      "max_height": "50 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Trim regularly to maintain shape.",
+      "Keep away from pets due to toxicity."
+    ],
+    "distribution": "Native to Europe and Western Asia",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmeXJdiN06N2T1j4hgil6XvdbhBCVpuMbhPQ&s",
+      "https://www.geosupplies.gr/wp-content/uploads/2021/03/hedera-helix.png"
+    ]
+  },
+  {
+    "id": "42",
+    "name": "Begonia rex",
+    "description": "Known for its stunning foliage, it features colorful leaves and is often used as a houseplant.",
+    "specifics": {
+      "sun_exposure": "Indirect light",
+      "watering": "Frequent",
+      "fruit": false,
+      "poisonous_to_pets": true,
+      "suitable_for": "Indoor",
+      "growth_habit": "Upright",
+      "max_height": "2 feet",
+      "has_cones": false,
+      "care_level": "Moderate",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Avoid getting water on leaves to prevent rot.",
+      "Fertilize every 4-6 weeks during the growing season."
+    ],
+    "distribution": "Native to tropical regions of Asia",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIjHtnDzWMOKZ08Bp3gQCfH2Lxwrn3oZ-MAw&s",
+      "https://www.thespruce.com/thmb/cVRzKoFdCrXeChBbIR7nOSq0YjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/grow-rex-begonia-1902492-3-f640ab199410402da1fe0af10ce29d63.jpg"
+    ]
+  },
+  {
+    "id": "43",
+    "name": "Pelargonium zonale",
+    "description": "Commonly known as zonal geranium, it features bright flowers and is often used in garden beds.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Upright",
+      "max_height": "3 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Fast"
+    },
+    "tips": [
+      "Deadhead spent flowers to encourage blooming.",
+      "Allow soil to dry between waterings."
+    ],
+    "distribution": "Native to South Africa",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmGK8MnC2c1e4XEu7BQRklxxiyDC43G0wK5w&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjl4idddQNxzFJK8jzutMstCzhLSphtQQ2dw&s"
+    ]
+  },
+  {
+    "id": "44",
+    "name": "Syringa vulgaris",
+    "description": "Commonly known as lilac, it is valued for its fragrant flowers that bloom in spring.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": false,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Upright",
+      "max_height": "10 feet",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Prune after flowering to maintain shape.",
+      "Plant in well-drained soil for best results."
+    ],
+    "distribution": "Native to the Balkans",
+    "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Lilac_Flower%26Leaves%2C_SC%2C_Vic%2C_13.10.2007.jpg/1200px-Lilac_Flower%26Leaves%2C_SC%2C_Vic%2C_13.10.2007.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRJ5S2pZAzE0x2svru41OePYtDya1SY4xSRw&s"
+    ]
+  },
+  {
+    "id": "45",
+    "name": "Narcissus pseudonarcissus",
+    "description": "Commonly known as daffodil, it is recognized for its bright yellow flowers that bloom in early spring.",
+    "specifics": {
+      "sun_exposure": "Full sun",
+      "watering": "Average",
+      "fruit": false,
+      "poisonous_to_pets": true,
+      "suitable_for": "Outdoor",
+      "growth_habit": "Upright",
+      "max_height": "1 foot",
+      "has_cones": false,
+      "care_level": "Easy",
+      "growth_rate": "Moderate"
+    },
+    "tips": [
+      "Plant bulbs in well-drained soil.",
+      "Allow foliage to die back naturally for better blooms next year."
+    ],
+    "distribution": "Native to Europe",
+    "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlYLamhzKzbTgNTx1UY1GhE9lvRBSm1UhlNw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-dJ__TfM2RJCkd8A0dw_hHg_j_qpDz7B_0A&s"
+    ]
+  }
+]

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=account_circle" />
+    <title>GreenHaven</title>
+</head>
+<body>
+    <section class="head">
+        <div class="header">
+            <a href="index.html">Green Haven</a>
+            <ul>
+                <li onclick="window.location.href = 'index.html'">Home</li>
+                <li onclick="window.location.href = 'plants.html'">Plants</li>
+                <li onclick="window.location.href = '#identify'">Identify Your Plant</li>
+            </ul>
+            <div class="account_icon">
+                <span class="material-symbols-outlined">
+                    account_circle
+                    </span>
+            </div>
+        </div>
+        <div class="content">
+            <div class="header_section">
+                <h1 id="Plant_title"></h1>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et ducimus laudantium neque rerum voluptatem voluptate?</p>
+                <button class="learn-more" >
+                <span class="circle" aria-hidden="true">
+                <span class="icon arrow"></span>
+                </span>
+                <span class="button-text" onclick="window.location.href = 'plants.html'">Learn More</span>
+                </button>
+            </div>
+        <div class="image_section">
+            <img  alt="" id="plant_banner">
+        </div>
+        </div>
+    </section>
+
+    <section class="plants-section">
+        <div class="Arrivals">
+            <h1>New Arrivals</h1>
+        </div>
+        <div class="plants">
+        <div class="card-list">
+            <article class="card">
+            <figure class="card-image">
+                <img src="/assets/images/plant.png" alt="An orange painted blue, cut in half laying on a blue background" />
+            </figure>
+            <div class="card-header">
+                <a href="#">When life gives you oranges</a>
+                <button class="icon-button">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" display="block" id="Heart">
+                        <path d="M7 3C4.239 3 2 5.216 2 7.95c0 2.207.875 7.445 9.488 12.74a.985.985 0 0 0 1.024 0C21.125 15.395 22 10.157 22 7.95 22 5.216 19.761 3 17 3s-5 3-5 3-2.239-3-5-3z" />
+                    </svg>
+        
+                </button>
+            </div>
+            <div class="card-footer">
+            <div class="water_icon">
+                <img src="/assets/images/water.svg" alt="">
+                <span class="hover-text">Your specific value</span>
+            </div>
+            </div>
+        </article>
+        </div>
+    </div>
+    <div class="see_more">
+        <button class="see_more_btn" onclick="window.location.href = 'plants.html'">see More</button>
+    </div>
+    </section>
+<section class="identify" id="identify">
+    <div class="popup-window">
+        <div class="popup-box">
+        <p class="close-menu">X</p>
+        <img src="" alt="" id="images"> 
+        <h1 id="plant_id">Plant_name</h1>
+        <div class="info" style="    padding-right: 37px;
+    padding-left: 37px;">
+            <div class="first">
+            <strong>Sun: <span id="plant_sun"></span></strong>
+            <strong>Watering:<span id="plant_water"></span></strong>
+            <strong>Poison: <span id="plant_poison"></span></strong>
+            <strong>Suitale For: <span id="plant_suit"></span></strong>
+            <strong>Growth: <span id="plant_growth"></span></strong>
+
+
+            </div>
+            <div class="last">
+                <strong>Max Height: <span id="plant_height"></span></strong>
+                <strong>Has Cones: <span id="plant_cones"></span></strong>
+                <strong>Has Fruit: <span id="plant_fruit"></span></strong>
+                <strong>Care Level: <span id="plant_care"></span></strong>
+
+
+            </div>
+
+        </div>
+        </div>
+      </div>
+          <div class="text_part">
+        <h1>Identify Your Plant</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis, ea eum vero ut deserunt eveniet laboriosam cumque. Ea quis eum omnis nisi rerum sint harum eius cupiditate quaerat! Temporibus, est.</p>
+        <button class="btn" id="Upload">
+            <svg height="24" width="24" fill="#FFFFFF" viewBox="0 0 24 24" data-name="Layer 1" id="Layer_1" class="sparkle">
+                <path d="M10,21.236,6.755,14.745.264,11.5,6.755,8.255,10,1.764l3.245,6.491L19.736,11.5l-6.491,3.245ZM18,21l1.5,3L21,21l3-1.5L21,18l-1.5-3L18,18l-3,1.5ZM19.333,4.667,20.5,7l1.167-2.333L24,3.5,21.667,2.333,20.5,0,19.333,2.333,17,3.5Z"></path>
+            </svg>
+            <input type="file" id="fileInput" style="display:none;" />
+            <span class="text">Identify Your Plant</span>
+        </button>
+    </div>
+    
+    <div class="video_part">
+        <video autoplay muted loop>
+            <source src="/assets/images/Plant Scanner and Identify app .mp4" type="video/mp4">
+          </video>    
+        </div>
+</section>
+
+
+
+
+    <script src="app.js"></script>
+    <script src="identify.js"></script>
+</body>
+</html>

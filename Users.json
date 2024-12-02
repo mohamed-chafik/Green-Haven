@@ -1,0 +1,1503 @@
+[
+  {
+    "user_id": "1",
+    "name": "User_1",
+    "profile_picture": "https://plus.unsplash.com/premium_photo-1671656349322-41de944d259b?q=80&w=1374&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "plants_owned": [
+      {
+        "plant_id": "2",
+        "name": "Ficus lyrata",
+        "images": [
+          "https://tohgarden.com/wp-content/uploads/2021/02/160597941_463558525003262_3468801024450206239_n.jpg",
+      "https://bowoodfarms.com/cdn/shop/products/Ficus-Lyrata-STD-10_2048x.png?v=1601927135"
+        ]
+      },
+      {
+        "plant_id": "13",
+        "name": "Sansevieria trifasciata",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-w46oUZj89P37BL3ha094J0HqKT_HcmjBA&s",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg/1200px-Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg"
+        ]
+      },
+      {
+        "plant_id": "10",
+        "name": "Acer palmatum",
+        "images": [
+      "https://cdn11.bigcommerce.com/s-sv0chyyd/images/stencil/1280x1280/products/1260/1852/Japanese_Maple__35536.1554458580.jpg?c=2",
+      "https://majestictrees.co.uk/cdn/shop/files/10040-acer-palmatum-dissectum-ornatum-8-600x600.jpg?v=1714124143&width=1445"
+  
+        ]
+      },
+      {
+        "plant_id": "11",
+        "name": "Agave americana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjwSJ1a5nRG4xmR-j0BuSwRmWLrqLV8b1vg&s",
+      "https://www.clorofila.ma/wp-content/uploads/2023/03/5048481606_22d74dc696_b-2.jpg"
+        ]
+      },
+      {
+        "plant_id": "6",
+        "name": "Rosa rubiginosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBXy48jJVLHcyllGVfRGBPgYQ6Hv5KihFAw&s",
+      "https://images.immediate.co.uk/production/volatile/sites/10/2022/03/2048x1365-Rosa-rubiginosa-SEO-GettyImages-1248161866-67da3ca.jpeg"
+        ]
+      },
+      {
+        "plant_id": "5",
+        "name": "Monstera deliciosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7We4bvbqBEbgTEMWIZ2NT6naX7mhzmGdl5A&s",
+      "https://www.ugaoo.com/cdn/shop/files/9_dac1c33d-00f2-469a-81f9-287d72f67a38.jpg?v=1710232846&width=1500"
+        ]
+      },
+      {
+        "plant_id": "4",
+        "name": "Aloe vera",
+        "images": [
+               "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCl3AtMewWq9J3w6LMiNyVOYgS7fUaaaOQog&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYW-XrWPkGER_H36hjurtGZvFwErJ6RviDQ&s"
+    
+        ]
+      },
+      {
+        "plant_id": "12",
+        "name": "Tulipa gesneriana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWSwfOq4H6_BGq5sz8knnv8SQmue_KaDGtQ&s",
+      "https://t3.ftcdn.net/jpg/05/07/15/92/360_F_507159235_QggKMiich33jMIJQ8ZuoMK4V0lfLeJGY.jpg"
+        ]
+      },
+      {
+        "plant_id": "15",
+        "name": "Ocimum basilicum",
+        "images": [
+      "https://www.monaconatureencyclopedia.com/wp-content/uploads/2008/08/1-115.jpg",
+      "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/2274/688015ee62074cef86f35b62a3233f9f.jpg"
+        ]
+      },
+      {
+        "plant_id": "9",
+        "name": "Mentha spicata",
+        "images": [
+      "https://www.gardenia.net/wp-content/uploads/2023/04/NQpWP4wQGmuUTU3ESFfl7qGYeXABT7n2PV21IWKT-780x520.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl4Q9OE14E2yJ_nFEplFqbWh_hIGoRHuJKg&s"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "2",
+    "name": "User_2",
+    "profile_picture": "https://plus.unsplash.com/premium_photo-1664541336896-b3d5f7dec9a3?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8dXNlcnxlbnwwfHwwfHx8MA%3D%3D",
+    "plants_owned": [
+      {
+        "plant_id": "8",
+        "name": "Calathea orbifolia",
+        "images": [
+      "https://www.thespruce.com/thmb/AP7NCraYKlBklvtoVNot5Mnb-aQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/calathea-orbifolia-growing-guide-5270824-07-d2b51522ee184d5c8f2d5de8fcf15101.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWz7AyD-1gAKDrAn9BWM2VZyXe5QxBIIiXjA&s"
+        ]
+      },
+      {
+        "plant_id": "4",
+        "name": "Aloe vera",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCl3AtMewWq9J3w6LMiNyVOYgS7fUaaaOQog&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYW-XrWPkGER_H36hjurtGZvFwErJ6RviDQ&s"
+        ]
+      },
+      {
+        "plant_id": "15",
+        "name": "Ocimum basilicum",
+        "images": [
+      "https://www.monaconatureencyclopedia.com/wp-content/uploads/2008/08/1-115.jpg",
+      "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/2274/688015ee62074cef86f35b62a3233f9f.jpg"
+        ]
+      },
+      {
+        "plant_id": "12",
+        "name": "Tulipa gesneriana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWSwfOq4H6_BGq5sz8knnv8SQmue_KaDGtQ&s",
+      "https://t3.ftcdn.net/jpg/05/07/15/92/360_F_507159235_QggKMiich33jMIJQ8ZuoMK4V0lfLeJGY.jpg"
+        ]
+      },
+      {
+        "plant_id": "14",
+        "name": "Lavandula stoechas",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcWf0gQOxQLK5Qx8VKj0Nd3Ga12NejCYmmA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbejSUoGGQDxPo1pynOoNmUkMRDg4HwPd7w&s"
+        ]
+      },
+      {
+        "plant_id": "19",
+        "name": "Hibiscus rosa-sinensis",
+        "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/Hibiscus_Brilliant.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQD4X5pZl-FjsqbEj2-pcjv_60kPzELQ65lQ&s"
+        ]
+      },
+      {
+        "plant_id": "10",
+        "name": "Acer palmatum",
+        "images": [
+      "https://cdn11.bigcommerce.com/s-sv0chyyd/images/stencil/1280x1280/products/1260/1852/Japanese_Maple__35536.1554458580.jpg?c=2",
+      "https://majestictrees.co.uk/cdn/shop/files/10040-acer-palmatum-dissectum-ornatum-8-600x600.jpg?v=1714124143&width=1445"
+        ]
+      },
+      {
+        "plant_id": "6",
+        "name": "Rosa rubiginosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBXy48jJVLHcyllGVfRGBPgYQ6Hv5KihFAw&s",
+      "https://images.immediate.co.uk/production/volatile/sites/10/2022/03/2048x1365-Rosa-rubiginosa-SEO-GettyImages-1248161866-67da3ca.jpeg"
+        ]
+      },
+      {
+        "plant_id": "7",
+        "name": "Echinacea purpurea",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVVH7eODkzJy4kI_F64J7-ZeHbLAeGUbCZg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jQKDV1hnR_a3viuDAA2JM94SEiVCN1Fmgg&s"
+        ]
+      },
+      {
+        "plant_id": "11",
+        "name": "Agave americana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjwSJ1a5nRG4xmR-j0BuSwRmWLrqLV8b1vg&s",
+      "https://www.clorofila.ma/wp-content/uploads/2023/03/5048481606_22d74dc696_b-2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "3",
+    "name": "User_3",
+    "profile_picture": "https://media.gettyimages.com/id/1487463442/photo/mockup-business-and-asian-woman-with-a-smile-selfie-and-confident-employee-with-startup.jpg?s=612x612&w=0&k=20&c=DF-tPU64AMBnPF4Qz-7eL_sa6-ouyg1MsMtNHrfWRys=",
+    "plants_owned": [
+      {
+        "plant_id": "10",
+        "name": "Acer palmatum",
+        "images": [
+      "https://cdn11.bigcommerce.com/s-sv0chyyd/images/stencil/1280x1280/products/1260/1852/Japanese_Maple__35536.1554458580.jpg?c=2",
+      "https://majestictrees.co.uk/cdn/shop/files/10040-acer-palmatum-dissectum-ornatum-8-600x600.jpg?v=1714124143&width=1445"
+        ]
+      },
+      {
+        "plant_id": "14",
+        "name": "Lavandula stoechas",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcWf0gQOxQLK5Qx8VKj0Nd3Ga12NejCYmmA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbejSUoGGQDxPo1pynOoNmUkMRDg4HwPd7w&s"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "4",
+    "name": "User_4",
+    "profile_picture": "https://randomuser.me/api/portraits/men/62.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "19",
+        "name": "Hibiscus rosa-sinensis",
+        "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/Hibiscus_Brilliant.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQD4X5pZl-FjsqbEj2-pcjv_60kPzELQ65lQ&s"
+        ]
+      },
+      {
+        "plant_id": "13",
+        "name": "Sansevieria trifasciata",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-w46oUZj89P37BL3ha094J0HqKT_HcmjBA&s",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg/1200px-Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg"
+        ]
+      },
+      {
+        "plant_id": "6",
+        "name": "Rosa rubiginosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBXy48jJVLHcyllGVfRGBPgYQ6Hv5KihFAw&s",
+      "https://images.immediate.co.uk/production/volatile/sites/10/2022/03/2048x1365-Rosa-rubiginosa-SEO-GettyImages-1248161866-67da3ca.jpeg"
+        ]
+      },
+      {
+        "plant_id": "15",
+        "name": "Ocimum basilicum",
+        "images": [
+      "https://www.monaconatureencyclopedia.com/wp-content/uploads/2008/08/1-115.jpg",
+      "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/2274/688015ee62074cef86f35b62a3233f9f.jpg"
+        ]
+      },
+      {
+        "plant_id": "11",
+        "name": "Agave americana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjwSJ1a5nRG4xmR-j0BuSwRmWLrqLV8b1vg&s",
+      "https://www.clorofila.ma/wp-content/uploads/2023/03/5048481606_22d74dc696_b-2.jpg"
+        ]
+      },
+      {
+        "plant_id": "16",
+        "name": "Helianthus annuus",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97EX_3Ky_ousYzwj8n92fKtqVUSSU53xVSw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXi_TU55UjYmmSoNBlvoe_jSoV_VnhCzO9ug&s"
+        ]
+      },
+      {
+        "plant_id": "20",
+        "name": "Chlorophytum comosum",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUdoq9Z7VpI3-FhG5SmzzxRRjyhJeGZPkNgw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoiSAfHm54uSK3KFGPE9LmQ7_up5cWG98yQ&s"
+        ]
+      },
+      {
+        "plant_id": "7",
+        "name": "Echinacea purpurea",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVVH7eODkzJy4kI_F64J7-ZeHbLAeGUbCZg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jQKDV1hnR_a3viuDAA2JM94SEiVCN1Fmgg&s"
+        ]
+      },
+      {
+        "plant_id": "2",
+        "name": "Ficus lyrata",
+        "images": [
+          "https://tohgarden.com/wp-content/uploads/2021/02/160597941_463558525003262_3468801024450206239_n.jpg",
+      "https://bowoodfarms.com/cdn/shop/products/Ficus-Lyrata-STD-10_2048x.png?v=1601927135"
+        ]
+      },
+      {
+        "plant_id": "3",
+        "name": "Lavandula angustifolia",
+        "images": [
+     "https://www.bomagardencentre.co.uk/files/images/webshop/lavandula-angustifolia-munstead-english-lavender-1024x1024-64b65191e433b_n.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtY5DDQLHV8pMVHVjl-WlituzhZgtXUr0JUg&s"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "5",
+    "name": "User_5",
+    "profile_picture": "https://randomuser.me/api/portraits/men/48.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "9",
+        "name": "Mentha spicata",
+        "images": [
+      "https://www.gardenia.net/wp-content/uploads/2023/04/NQpWP4wQGmuUTU3ESFfl7qGYeXABT7n2PV21IWKT-780x520.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl4Q9OE14E2yJ_nFEplFqbWh_hIGoRHuJKg&s"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "6",
+    "name": "User_6",
+    "profile_picture": "https://randomuser.me/api/portraits/men/29.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "3",
+        "name": "Lavandula angustifolia",
+        "images": [
+     "https://www.bomagardencentre.co.uk/files/images/webshop/lavandula-angustifolia-munstead-english-lavender-1024x1024-64b65191e433b_n.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtY5DDQLHV8pMVHVjl-WlituzhZgtXUr0JUg&s"
+        ]
+      },
+      {
+        "plant_id": "19",
+        "name": "Hibiscus rosa-sinensis",
+        "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/Hibiscus_Brilliant.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQD4X5pZl-FjsqbEj2-pcjv_60kPzELQ65lQ&s"
+        ]
+      },
+      {
+        "plant_id": "12",
+        "name": "Tulipa gesneriana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWSwfOq4H6_BGq5sz8knnv8SQmue_KaDGtQ&s",
+      "https://t3.ftcdn.net/jpg/05/07/15/92/360_F_507159235_QggKMiich33jMIJQ8ZuoMK4V0lfLeJGY.jpg"
+        ]
+      },
+      {
+        "plant_id": "5",
+        "name": "Monstera deliciosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7We4bvbqBEbgTEMWIZ2NT6naX7mhzmGdl5A&s",
+      "https://www.ugaoo.com/cdn/shop/files/9_dac1c33d-00f2-469a-81f9-287d72f67a38.jpg?v=1710232846&width=1500"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "7",
+    "name": "User_7",
+    "profile_picture": "https://randomuser.me/api/portraits/men/22.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "5",
+        "name": "Monstera deliciosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7We4bvbqBEbgTEMWIZ2NT6naX7mhzmGdl5A&s",
+      "https://www.ugaoo.com/cdn/shop/files/9_dac1c33d-00f2-469a-81f9-287d72f67a38.jpg?v=1710232846&width=1500"
+        ]
+      },
+      {
+        "plant_id": "4",
+        "name": "Aloe vera",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCl3AtMewWq9J3w6LMiNyVOYgS7fUaaaOQog&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYW-XrWPkGER_H36hjurtGZvFwErJ6RviDQ&s"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "8",
+    "name": "User_8",
+    "profile_picture": "https://randomuser.me/api/portraits/men/7.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "4",
+        "name": "Aloe vera",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCl3AtMewWq9J3w6LMiNyVOYgS7fUaaaOQog&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYW-XrWPkGER_H36hjurtGZvFwErJ6RviDQ&s"
+        ]
+      },
+      {
+        "plant_id": "5",
+        "name": "Monstera deliciosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7We4bvbqBEbgTEMWIZ2NT6naX7mhzmGdl5A&s",
+      "https://www.ugaoo.com/cdn/shop/files/9_dac1c33d-00f2-469a-81f9-287d72f67a38.jpg?v=1710232846&width=1500"
+        ]
+      },
+      {
+        "plant_id": "18",
+        "name": "Salvia officinalis",
+        "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/Salvia_officinalis0.jpg",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/DFMLkwgNkSs4PNcpGXzUyuOkWUfz2WQG01sjezl5-780x520.webp"
+    
+        ]
+      },
+      {
+        "plant_id": "17",
+        "name": "Alocasia amazonica",
+        "images": [
+          "https://example.com/images/alocasia_amazonica1.jpg",
+          "https://example.com/images/alocasia_amazonica2.jpg"
+        ]
+      },
+      {
+        "plant_id": "15",
+        "name": "Ocimum basilicum",
+        "images": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCADPTtJBSbEbr-gn3Z0QD50fX3qgoyRXY6A&s",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/shutterstock_771557308Optimized-780x520.webp"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "9",
+    "name": "User_9",
+    "profile_picture": "https://randomuser.me/api/portraits/men/9.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "20",
+        "name": "Chlorophytum comosum",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUdoq9Z7VpI3-FhG5SmzzxRRjyhJeGZPkNgw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoiSAfHm54uSK3KFGPE9LmQ7_up5cWG98yQ&s"
+        ]
+      },
+      {
+        "plant_id": "18",
+        "name": "Salvia officinalis",
+        "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/Salvia_officinalis0.jpg",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/DFMLkwgNkSs4PNcpGXzUyuOkWUfz2WQG01sjezl5-780x520.webp"
+        ]
+      },
+      {
+        "plant_id": "3",
+        "name": "Lavandula angustifolia",
+        "images": [
+     "https://www.bomagardencentre.co.uk/files/images/webshop/lavandula-angustifolia-munstead-english-lavender-1024x1024-64b65191e433b_n.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtY5DDQLHV8pMVHVjl-WlituzhZgtXUr0JUg&s"
+        ]
+      },
+      {
+        "plant_id": "14",
+        "name": "Lavandula stoechas",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcWf0gQOxQLK5Qx8VKj0Nd3Ga12NejCYmmA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbejSUoGGQDxPo1pynOoNmUkMRDg4HwPd7w&s"
+        ]
+      },
+      {
+        "plant_id": "8",
+        "name": "Calathea orbifolia",
+        "images": [
+      "https://www.thespruce.com/thmb/AP7NCraYKlBklvtoVNot5Mnb-aQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/calathea-orbifolia-growing-guide-5270824-07-d2b51522ee184d5c8f2d5de8fcf15101.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWz7AyD-1gAKDrAn9BWM2VZyXe5QxBIIiXjA&s"
+        ]
+      },
+      {
+        "plant_id": "4",
+        "name": "Aloe vera",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCl3AtMewWq9J3w6LMiNyVOYgS7fUaaaOQog&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYW-XrWPkGER_H36hjurtGZvFwErJ6RviDQ&s"
+        ]
+      },
+      {
+        "plant_id": "11",
+        "name": "Agave americana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjwSJ1a5nRG4xmR-j0BuSwRmWLrqLV8b1vg&s",
+      "https://www.clorofila.ma/wp-content/uploads/2023/03/5048481606_22d74dc696_b-2.jpg"
+        ]
+      },
+      {
+        "plant_id": "10",
+        "name": "Acer palmatum",
+        "images": [
+      "https://cdn11.bigcommerce.com/s-sv0chyyd/images/stencil/1280x1280/products/1260/1852/Japanese_Maple__35536.1554458580.jpg?c=2",
+      "https://majestictrees.co.uk/cdn/shop/files/10040-acer-palmatum-dissectum-ornatum-8-600x600.jpg?v=1714124143&width=1445"
+        ]
+      },
+      {
+        "plant_id": "19",
+        "name": "Hibiscus rosa-sinensis",
+        "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/Hibiscus_Brilliant.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQD4X5pZl-FjsqbEj2-pcjv_60kPzELQ65lQ&s"
+        ]
+      },
+      {
+        "plant_id": "17",
+        "name": "Alocasia amazonica",
+        "images": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCADPTtJBSbEbr-gn3Z0QD50fX3qgoyRXY6A&s",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/shutterstock_771557308Optimized-780x520.webp"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "10",
+    "name": "User_10",
+    "profile_picture": "https://randomuser.me/api/portraits/men/52.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "8",
+        "name": "Calathea orbifolia",
+        "images": [
+      "https://www.thespruce.com/thmb/AP7NCraYKlBklvtoVNot5Mnb-aQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/calathea-orbifolia-growing-guide-5270824-07-d2b51522ee184d5c8f2d5de8fcf15101.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWz7AyD-1gAKDrAn9BWM2VZyXe5QxBIIiXjA&s"
+        ]
+      },
+      {
+        "plant_id": "1",
+        "name": "Hygrophila corymbosa",
+        "images": [
+          "/assets/images/imagegen.jpeg",
+      "/assets/images/imagegen1.jpeg"
+        ]
+      },
+      {
+        "plant_id": "13",
+        "name": "Sansevieria trifasciata",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-w46oUZj89P37BL3ha094J0HqKT_HcmjBA&s",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg/1200px-Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "11",
+    "name": "User_11",
+    "profile_picture": "https://randomuser.me/api/portraits/women/75.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "17",
+        "name": "Alocasia amazonica",
+        "images": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCADPTtJBSbEbr-gn3Z0QD50fX3qgoyRXY6A&s",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/shutterstock_771557308Optimized-780x520.webp"
+        ]
+      },
+      {
+        "plant_id": "1",
+        "name": "Hygrophila corymbosa",
+        "images": [
+          "/assets/images/imagegen.jpeg",
+      "/assets/images/imagegen1.jpeg"
+        ]
+      },
+      {
+        "plant_id": "6",
+        "name": "Rosa rubiginosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBXy48jJVLHcyllGVfRGBPgYQ6Hv5KihFAw&s",
+      "https://images.immediate.co.uk/production/volatile/sites/10/2022/03/2048x1365-Rosa-rubiginosa-SEO-GettyImages-1248161866-67da3ca.jpeg"
+        ]
+      },
+      {
+        "plant_id": "10",
+        "name": "Acer palmatum",
+        "images": [
+      "https://cdn11.bigcommerce.com/s-sv0chyyd/images/stencil/1280x1280/products/1260/1852/Japanese_Maple__35536.1554458580.jpg?c=2",
+      "https://majestictrees.co.uk/cdn/shop/files/10040-acer-palmatum-dissectum-ornatum-8-600x600.jpg?v=1714124143&width=1445"
+        ]
+      },
+      {
+        "plant_id": "16",
+        "name": "Helianthus annuus",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97EX_3Ky_ousYzwj8n92fKtqVUSSU53xVSw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXi_TU55UjYmmSoNBlvoe_jSoV_VnhCzO9ug&s"
+        ]
+      },
+      {
+        "plant_id": "20",
+        "name": "Chlorophytum comosum",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUdoq9Z7VpI3-FhG5SmzzxRRjyhJeGZPkNgw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoiSAfHm54uSK3KFGPE9LmQ7_up5cWG98yQ&s"
+        ]
+      },
+      {
+        "plant_id": "2",
+        "name": "Ficus lyrata",
+        "images": [
+          "https://tohgarden.com/wp-content/uploads/2021/02/160597941_463558525003262_3468801024450206239_n.jpg",
+      "https://bowoodfarms.com/cdn/shop/products/Ficus-Lyrata-STD-10_2048x.png?v=1601927135"
+        ]
+      },
+      {
+        "plant_id": "3",
+        "name": "Lavandula angustifolia",
+        "images": [
+     "https://www.bomagardencentre.co.uk/files/images/webshop/lavandula-angustifolia-munstead-english-lavender-1024x1024-64b65191e433b_n.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtY5DDQLHV8pMVHVjl-WlituzhZgtXUr0JUg&s"
+        ]
+      },
+      {
+        "plant_id": "11",
+        "name": "Agave americana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjwSJ1a5nRG4xmR-j0BuSwRmWLrqLV8b1vg&s",
+      "https://www.clorofila.ma/wp-content/uploads/2023/03/5048481606_22d74dc696_b-2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "12",
+    "name": "User_12",
+    "profile_picture": "https://randomuser.me/api/portraits/women/8.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "19",
+        "name": "Hibiscus rosa-sinensis",
+        "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/Hibiscus_Brilliant.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQD4X5pZl-FjsqbEj2-pcjv_60kPzELQ65lQ&s"
+        ]
+      },
+      {
+        "plant_id": "2",
+        "name": "Ficus lyrata",
+        "images": [
+          "https://tohgarden.com/wp-content/uploads/2021/02/160597941_463558525003262_3468801024450206239_n.jpg",
+      "https://bowoodfarms.com/cdn/shop/products/Ficus-Lyrata-STD-10_2048x.png?v=1601927135"
+        ]
+      },
+      {
+        "plant_id": "4",
+        "name": "Aloe vera",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCl3AtMewWq9J3w6LMiNyVOYgS7fUaaaOQog&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYW-XrWPkGER_H36hjurtGZvFwErJ6RviDQ&s"
+        ]
+      },
+      {
+        "plant_id": "15",
+        "name": "Ocimum basilicum",
+        "images": [
+      "https://www.monaconatureencyclopedia.com/wp-content/uploads/2008/08/1-115.jpg",
+      "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/2274/688015ee62074cef86f35b62a3233f9f.jpg"
+        ]
+      },
+      {
+        "plant_id": "11",
+        "name": "Agave americana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjwSJ1a5nRG4xmR-j0BuSwRmWLrqLV8b1vg&s",
+      "https://www.clorofila.ma/wp-content/uploads/2023/03/5048481606_22d74dc696_b-2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "13",
+    "name": "User_13",
+    "profile_picture": "https://randomuser.me/api/portraits/women/65.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "17",
+        "name": "Alocasia amazonica",
+        "images": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCADPTtJBSbEbr-gn3Z0QD50fX3qgoyRXY6A&s",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/shutterstock_771557308Optimized-780x520.webp"
+        ]
+      },
+      {
+        "plant_id": "8",
+        "name": "Calathea orbifolia",
+        "images": [
+       "https://www.thespruce.com/thmb/AP7NCraYKlBklvtoVNot5Mnb-aQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/calathea-orbifolia-growing-guide-5270824-07-d2b51522ee184d5c8f2d5de8fcf15101.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWz7AyD-1gAKDrAn9BWM2VZyXe5QxBIIiXjA&s"
+        ]
+      },
+      {
+        "plant_id": "3",
+        "name": "Lavandula angustifolia",
+        "images": [
+     "https://www.bomagardencentre.co.uk/files/images/webshop/lavandula-angustifolia-munstead-english-lavender-1024x1024-64b65191e433b_n.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtY5DDQLHV8pMVHVjl-WlituzhZgtXUr0JUg&s"
+        ]
+      },
+      {
+        "plant_id": "16",
+        "name": "Helianthus annuus",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97EX_3Ky_ousYzwj8n92fKtqVUSSU53xVSw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXi_TU55UjYmmSoNBlvoe_jSoV_VnhCzO9ug&s"
+        ]
+      },
+      {
+        "plant_id": "15",
+        "name": "Ocimum basilicum",
+        "images": [
+      "https://www.monaconatureencyclopedia.com/wp-content/uploads/2008/08/1-115.jpg",
+      "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/2274/688015ee62074cef86f35b62a3233f9f.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "14",
+    "name": "User_14",
+    "profile_picture": "https://randomuser.me/api/portraits/women/81.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "16",
+        "name": "Helianthus annuus",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97EX_3Ky_ousYzwj8n92fKtqVUSSU53xVSw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXi_TU55UjYmmSoNBlvoe_jSoV_VnhCzO9ug&s"
+        ]
+      },
+      {
+        "plant_id": "10",
+        "name": "Acer palmatum",
+        "images": [
+      "https://cdn11.bigcommerce.com/s-sv0chyyd/images/stencil/1280x1280/products/1260/1852/Japanese_Maple__35536.1554458580.jpg?c=2",
+      "https://majestictrees.co.uk/cdn/shop/files/10040-acer-palmatum-dissectum-ornatum-8-600x600.jpg?v=1714124143&width=1445"
+        ]
+      },
+      {
+        "plant_id": "5",
+        "name": "Monstera deliciosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7We4bvbqBEbgTEMWIZ2NT6naX7mhzmGdl5A&s",
+      "https://www.ugaoo.com/cdn/shop/files/9_dac1c33d-00f2-469a-81f9-287d72f67a38.jpg?v=1710232846&width=1500"
+        ]
+      },
+      {
+        "plant_id": "13",
+        "name": "Sansevieria trifasciata",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-w46oUZj89P37BL3ha094J0HqKT_HcmjBA&s",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg/1200px-Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "15",
+    "name": "User_15",
+    "profile_picture": "https://randomuser.me/api/portraits/women/82.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "2",
+        "name": "Ficus lyrata",
+        "images": [
+          "https://tohgarden.com/wp-content/uploads/2021/02/160597941_463558525003262_3468801024450206239_n.jpg",
+      "https://bowoodfarms.com/cdn/shop/products/Ficus-Lyrata-STD-10_2048x.png?v=1601927135"
+        ]
+      },
+      {
+        "plant_id": "12",
+        "name": "Tulipa gesneriana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWSwfOq4H6_BGq5sz8knnv8SQmue_KaDGtQ&s",
+      "https://t3.ftcdn.net/jpg/05/07/15/92/360_F_507159235_QggKMiich33jMIJQ8ZuoMK4V0lfLeJGY.jpg"
+        ]
+      },
+      {
+        "plant_id": "11",
+        "name": "Agave americana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjwSJ1a5nRG4xmR-j0BuSwRmWLrqLV8b1vg&s",
+      "https://www.clorofila.ma/wp-content/uploads/2023/03/5048481606_22d74dc696_b-2.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "16",
+    "name": "User_16",
+    "profile_picture": "https://randomuser.me/api/portraits/women/89.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "9",
+        "name": "Mentha spicata",
+        "images": [
+      "https://www.gardenia.net/wp-content/uploads/2023/04/NQpWP4wQGmuUTU3ESFfl7qGYeXABT7n2PV21IWKT-780x520.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl4Q9OE14E2yJ_nFEplFqbWh_hIGoRHuJKg&s"
+        ]
+      },
+      {
+        "plant_id": "20",
+        "name": "Chlorophytum comosum",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUdoq9Z7VpI3-FhG5SmzzxRRjyhJeGZPkNgw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoiSAfHm54uSK3KFGPE9LmQ7_up5cWG98yQ&s"
+        ]
+      },
+      {
+        "plant_id": "5",
+        "name": "Monstera deliciosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7We4bvbqBEbgTEMWIZ2NT6naX7mhzmGdl5A&s",
+      "https://www.ugaoo.com/cdn/shop/files/9_dac1c33d-00f2-469a-81f9-287d72f67a38.jpg?v=1710232846&width=1500"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "17",
+    "name": "User_17",
+    "profile_picture": "https://randomuser.me/api/portraits/women/51.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "1",
+        "name": "Hygrophila corymbosa",
+        "images": [
+          "/assets/images/imagegen.jpeg",
+      "/assets/images/imagegen1.jpeg"
+        ]
+      },
+      {
+        "plant_id": "20",
+        "name": "Chlorophytum comosum",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUdoq9Z7VpI3-FhG5SmzzxRRjyhJeGZPkNgw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoiSAfHm54uSK3KFGPE9LmQ7_up5cWG98yQ&s"
+        ]
+      },
+      {
+        "plant_id": "6",
+        "name": "Rosa rubiginosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBXy48jJVLHcyllGVfRGBPgYQ6Hv5KihFAw&s",
+      "https://images.immediate.co.uk/production/volatile/sites/10/2022/03/2048x1365-Rosa-rubiginosa-SEO-GettyImages-1248161866-67da3ca.jpeg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "18",
+    "name": "User_18",
+    "profile_picture": "https://randomuser.me/api/portraits/women/60.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "6",
+        "name": "Rosa rubiginosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBXy48jJVLHcyllGVfRGBPgYQ6Hv5KihFAw&s",
+      "https://images.immediate.co.uk/production/volatile/sites/10/2022/03/2048x1365-Rosa-rubiginosa-SEO-GettyImages-1248161866-67da3ca.jpeg"
+        ]
+      },
+      {
+        "plant_id": "17",
+        "name": "Alocasia amazonica",
+        "images": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCADPTtJBSbEbr-gn3Z0QD50fX3qgoyRXY6A&s",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/shutterstock_771557308Optimized-780x520.webp"
+        ]
+      },
+      {
+        "plant_id": "8",
+        "name": "Calathea orbifolia",
+        "images": [
+      "https://www.thespruce.com/thmb/AP7NCraYKlBklvtoVNot5Mnb-aQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/calathea-orbifolia-growing-guide-5270824-07-d2b51522ee184d5c8f2d5de8fcf15101.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWz7AyD-1gAKDrAn9BWM2VZyXe5QxBIIiXjA&s"
+        ]
+      },
+      {
+        "plant_id": "11",
+        "name": "Agave americana",
+        "images": [
+       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjwSJ1a5nRG4xmR-j0BuSwRmWLrqLV8b1vg&s",
+      "https://www.clorofila.ma/wp-content/uploads/2023/03/5048481606_22d74dc696_b-2.jpg"
+        ]
+      },
+      {
+        "plant_id": "7",
+        "name": "Echinacea purpurea",
+        "images": [
+       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVVH7eODkzJy4kI_F64J7-ZeHbLAeGUbCZg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jQKDV1hnR_a3viuDAA2JM94SEiVCN1Fmgg&s"
+        ]
+      },
+      {
+        "plant_id": "20",
+        "name": "Chlorophytum comosum",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUdoq9Z7VpI3-FhG5SmzzxRRjyhJeGZPkNgw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoiSAfHm54uSK3KFGPE9LmQ7_up5cWG98yQ&s"
+        ]
+      },
+      {
+        "plant_id": "10",
+        "name": "Acer palmatum",
+        "images": [
+      "https://cdn11.bigcommerce.com/s-sv0chyyd/images/stencil/1280x1280/products/1260/1852/Japanese_Maple__35536.1554458580.jpg?c=2",
+      "https://majestictrees.co.uk/cdn/shop/files/10040-acer-palmatum-dissectum-ornatum-8-600x600.jpg?v=1714124143&width=1445"
+        ]
+      },
+      {
+        "plant_id": "2",
+        "name": "Ficus lyrata",
+        "images": [
+          "https://tohgarden.com/wp-content/uploads/2021/02/160597941_463558525003262_3468801024450206239_n.jpg",
+      "https://bowoodfarms.com/cdn/shop/products/Ficus-Lyrata-STD-10_2048x.png?v=1601927135"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "19",
+    "name": "User_19",
+    "profile_picture": "https://randomuser.me/api/portraits/women/87.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "9",
+        "name": "Mentha spicata",
+        "images": [
+      "https://www.gardenia.net/wp-content/uploads/2023/04/NQpWP4wQGmuUTU3ESFfl7qGYeXABT7n2PV21IWKT-780x520.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl4Q9OE14E2yJ_nFEplFqbWh_hIGoRHuJKg&s"
+        ]
+      },
+      {
+        "plant_id": "19",
+        "name": "Hibiscus rosa-sinensis",
+        "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/Hibiscus_Brilliant.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQD4X5pZl-FjsqbEj2-pcjv_60kPzELQ65lQ&s"
+        ]
+      },
+      {
+        "plant_id": "11",
+        "name": "Agave americana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjwSJ1a5nRG4xmR-j0BuSwRmWLrqLV8b1vg&s",
+      "https://www.clorofila.ma/wp-content/uploads/2023/03/5048481606_22d74dc696_b-2.jpg"
+        ]
+      },
+      {
+        "plant_id": "16",
+        "name": "Helianthus annuus",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97EX_3Ky_ousYzwj8n92fKtqVUSSU53xVSw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXi_TU55UjYmmSoNBlvoe_jSoV_VnhCzO9ug&s"
+        ]
+      },
+      {
+        "plant_id": "3",
+        "name": "Lavandula angustifolia",
+        "images": [
+     "https://www.bomagardencentre.co.uk/files/images/webshop/lavandula-angustifolia-munstead-english-lavender-1024x1024-64b65191e433b_n.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtY5DDQLHV8pMVHVjl-WlituzhZgtXUr0JUg&s"
+        ]
+      },
+      {
+        "plant_id": "2",
+        "name": "Ficus lyrata",
+        "images": [
+         "https://tohgarden.com/wp-content/uploads/2021/02/160597941_463558525003262_3468801024450206239_n.jpg",
+      "https://bowoodfarms.com/cdn/shop/products/Ficus-Lyrata-STD-10_2048x.png?v=1601927135"
+        ]
+      },
+      {
+        "plant_id": "8",
+        "name": "Calathea orbifolia",
+        "images": [
+      "https://www.thespruce.com/thmb/AP7NCraYKlBklvtoVNot5Mnb-aQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/calathea-orbifolia-growing-guide-5270824-07-d2b51522ee184d5c8f2d5de8fcf15101.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWz7AyD-1gAKDrAn9BWM2VZyXe5QxBIIiXjA&s"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "20",
+    "name": "User_20",
+    "profile_picture": "https://randomuser.me/api/portraits/women/3.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "9",
+        "name": "Mentha spicata",
+        "images": [
+      "https://www.gardenia.net/wp-content/uploads/2023/04/NQpWP4wQGmuUTU3ESFfl7qGYeXABT7n2PV21IWKT-780x520.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl4Q9OE14E2yJ_nFEplFqbWh_hIGoRHuJKg&s"
+        ]
+      },
+      {
+        "plant_id": "8",
+        "name": "Calathea orbifolia",
+        "images": [
+      "https://www.thespruce.com/thmb/AP7NCraYKlBklvtoVNot5Mnb-aQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/calathea-orbifolia-growing-guide-5270824-07-d2b51522ee184d5c8f2d5de8fcf15101.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWz7AyD-1gAKDrAn9BWM2VZyXe5QxBIIiXjA&s"
+        ]
+      },
+      {
+        "plant_id": "18",
+        "name": "Salvia officinalis",
+        "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/Salvia_officinalis0.jpg",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/DFMLkwgNkSs4PNcpGXzUyuOkWUfz2WQG01sjezl5-780x520.webp"
+        ]
+      },
+      {
+        "plant_id": "2",
+        "name": "Ficus lyrata",
+        "images": [
+          "https://tohgarden.com/wp-content/uploads/2021/02/160597941_463558525003262_3468801024450206239_n.jpg",
+      "https://bowoodfarms.com/cdn/shop/products/Ficus-Lyrata-STD-10_2048x.png?v=1601927135"
+        ]
+      },
+      {
+        "plant_id": "17",
+        "name": "Alocasia amazonica",
+        "images": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCADPTtJBSbEbr-gn3Z0QD50fX3qgoyRXY6A&s",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/shutterstock_771557308Optimized-780x520.webp"
+        ]
+      },
+      {
+        "plant_id": "5",
+        "name": "Monstera deliciosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7We4bvbqBEbgTEMWIZ2NT6naX7mhzmGdl5A&s",
+      "https://www.ugaoo.com/cdn/shop/files/9_dac1c33d-00f2-469a-81f9-287d72f67a38.jpg?v=1710232846&width=1500"
+        ]
+      },
+      {
+        "plant_id": "14",
+        "name": "Lavandula stoechas",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcWf0gQOxQLK5Qx8VKj0Nd3Ga12NejCYmmA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbejSUoGGQDxPo1pynOoNmUkMRDg4HwPd7w&s"
+        ]
+      },
+      {
+        "plant_id": "19",
+        "name": "Hibiscus rosa-sinensis",
+        "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/Hibiscus_Brilliant.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQD4X5pZl-FjsqbEj2-pcjv_60kPzELQ65lQ&s"
+        ]
+      },
+      {
+        "plant_id": "16",
+        "name": "Helianthus annuus",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97EX_3Ky_ousYzwj8n92fKtqVUSSU53xVSw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXi_TU55UjYmmSoNBlvoe_jSoV_VnhCzO9ug&s"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "21",
+    "name": "User_21",
+    "profile_picture": "https://randomuser.me/api/portraits/women/76.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "19",
+        "name": "Hibiscus rosa-sinensis",
+        "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/2/21/Hibiscus_Brilliant.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQD4X5pZl-FjsqbEj2-pcjv_60kPzELQ65lQ&s"
+        ]
+      },
+      {
+        "plant_id": "8",
+        "name": "Calathea orbifolia",
+        "images": [
+      "https://www.thespruce.com/thmb/AP7NCraYKlBklvtoVNot5Mnb-aQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/calathea-orbifolia-growing-guide-5270824-07-d2b51522ee184d5c8f2d5de8fcf15101.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWz7AyD-1gAKDrAn9BWM2VZyXe5QxBIIiXjA&s"
+        ]
+      },
+      {
+        "plant_id": "14",
+        "name": "Lavandula stoechas",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcWf0gQOxQLK5Qx8VKj0Nd3Ga12NejCYmmA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnbejSUoGGQDxPo1pynOoNmUkMRDg4HwPd7w&s"
+        ]
+      },
+      {
+        "plant_id": "12",
+        "name": "Tulipa gesneriana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWSwfOq4H6_BGq5sz8knnv8SQmue_KaDGtQ&s",
+      "https://t3.ftcdn.net/jpg/05/07/15/92/360_F_507159235_QggKMiich33jMIJQ8ZuoMK4V0lfLeJGY.jpg"
+        ]
+      },
+      {
+        "plant_id": "16",
+        "name": "Helianthus annuus",
+        "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97EX_3Ky_ousYzwj8n92fKtqVUSSU53xVSw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXi_TU55UjYmmSoNBlvoe_jSoV_VnhCzO9ug&s"
+        ]
+      },
+      {
+        "plant_id": "20",
+        "name": "Chlorophytum comosum",
+        "images": [
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUdoq9Z7VpI3-FhG5SmzzxRRjyhJeGZPkNgw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoiSAfHm54uSK3KFGPE9LmQ7_up5cWG98yQ&s"
+        ]
+      },
+      {
+        "plant_id": "5",
+        "name": "Monstera deliciosa",
+        "images": [
+       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7We4bvbqBEbgTEMWIZ2NT6naX7mhzmGdl5A&s",
+      "https://www.ugaoo.com/cdn/shop/files/9_dac1c33d-00f2-469a-81f9-287d72f67a38.jpg?v=1710232846&width=1500"
+        ]
+      },
+      {
+        "plant_id": "10",
+        "name": "Acer palmatum",
+        "images": [
+      "https://cdn11.bigcommerce.com/s-sv0chyyd/images/stencil/1280x1280/products/1260/1852/Japanese_Maple__35536.1554458580.jpg?c=2",
+      "https://majestictrees.co.uk/cdn/shop/files/10040-acer-palmatum-dissectum-ornatum-8-600x600.jpg?v=1714124143&width=1445"
+        ]
+      },
+      {
+        "plant_id": "6",
+        "name": "Rosa rubiginosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBXy48jJVLHcyllGVfRGBPgYQ6Hv5KihFAw&s",
+      "https://images.immediate.co.uk/production/volatile/sites/10/2022/03/2048x1365-Rosa-rubiginosa-SEO-GettyImages-1248161866-67da3ca.jpeg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "22",
+    "name": "User_22",
+    "profile_picture": "https://randomuser.me/api/portraits/women/85.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "13",
+        "name": "Sansevieria trifasciata",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-w46oUZj89P37BL3ha094J0HqKT_HcmjBA&s",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg/1200px-Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg"
+        ]
+      },
+      {
+        "plant_id": "15",
+        "name": "Ocimum basilicum",
+        "images": [
+      "https://www.monaconatureencyclopedia.com/wp-content/uploads/2008/08/1-115.jpg",
+      "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/2274/688015ee62074cef86f35b62a3233f9f.jpg"
+        ]
+      },
+      {
+        "plant_id": "18",
+        "name": "Salvia officinalis",
+        "images": [
+      "https://upload.wikimedia.org/wikipedia/commons/5/5a/Salvia_officinalis0.jpg",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/DFMLkwgNkSs4PNcpGXzUyuOkWUfz2WQG01sjezl5-780x520.webp"
+        ]
+      },
+      {
+        "plant_id": "10",
+        "name": "Acer palmatum",
+        "images": [
+      "https://cdn11.bigcommerce.com/s-sv0chyyd/images/stencil/1280x1280/products/1260/1852/Japanese_Maple__35536.1554458580.jpg?c=2",
+      "https://majestictrees.co.uk/cdn/shop/files/10040-acer-palmatum-dissectum-ornatum-8-600x600.jpg?v=1714124143&width=1445"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "23",
+    "name": "User_23",
+    "profile_picture": "https://randomuser.me/api/portraits/women/62.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "6",
+        "name": "Rosa rubiginosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBXy48jJVLHcyllGVfRGBPgYQ6Hv5KihFAw&s",
+      "https://images.immediate.co.uk/production/volatile/sites/10/2022/03/2048x1365-Rosa-rubiginosa-SEO-GettyImages-1248161866-67da3ca.jpeg"
+        ]
+      },
+      {
+        "plant_id": "12",
+        "name": "Tulipa gesneriana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWSwfOq4H6_BGq5sz8knnv8SQmue_KaDGtQ&s",
+      "https://t3.ftcdn.net/jpg/05/07/15/92/360_F_507159235_QggKMiich33jMIJQ8ZuoMK4V0lfLeJGY.jpg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "24",
+    "name": "User_24",
+    "profile_picture": "https://randomuser.me/api/portraits/women/79.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "16",
+        "name": "Helianthus annuus",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97EX_3Ky_ousYzwj8n92fKtqVUSSU53xVSw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXi_TU55UjYmmSoNBlvoe_jSoV_VnhCzO9ug&s"
+        ]
+      },
+      {
+        "plant_id": "3",
+        "name": "Lavandula angustifolia",
+        "images": [
+     "https://www.bomagardencentre.co.uk/files/images/webshop/lavandula-angustifolia-munstead-english-lavender-1024x1024-64b65191e433b_n.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtY5DDQLHV8pMVHVjl-WlituzhZgtXUr0JUg&s"
+        ]
+      },
+      {
+        "plant_id": "13",
+        "name": "Sansevieria trifasciata",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-w46oUZj89P37BL3ha094J0HqKT_HcmjBA&s",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg/1200px-Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg"
+        ]
+      },
+      {
+        "plant_id": "4",
+        "name": "Aloe vera",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCl3AtMewWq9J3w6LMiNyVOYgS7fUaaaOQog&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYW-XrWPkGER_H36hjurtGZvFwErJ6RviDQ&s"
+        ]
+      },
+      {
+        "plant_id": "8",
+        "name": "Calathea orbifolia",
+        "images": [
+      "https://www.thespruce.com/thmb/AP7NCraYKlBklvtoVNot5Mnb-aQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/calathea-orbifolia-growing-guide-5270824-07-d2b51522ee184d5c8f2d5de8fcf15101.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWz7AyD-1gAKDrAn9BWM2VZyXe5QxBIIiXjA&s"
+        ]
+      },
+      {
+        "plant_id": "9",
+        "name": "Mentha spicata",
+        "images": [
+      "https://www.gardenia.net/wp-content/uploads/2023/04/NQpWP4wQGmuUTU3ESFfl7qGYeXABT7n2PV21IWKT-780x520.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl4Q9OE14E2yJ_nFEplFqbWh_hIGoRHuJKg&s"
+        ]
+      },
+      {
+        "plant_id": "12",
+        "name": "Tulipa gesneriana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHWSwfOq4H6_BGq5sz8knnv8SQmue_KaDGtQ&s",
+      "https://t3.ftcdn.net/jpg/05/07/15/92/360_F_507159235_QggKMiich33jMIJQ8ZuoMK4V0lfLeJGY.jpg"
+        ]
+      },
+      {
+        "plant_id": "1",
+        "name": "Hygrophila corymbosa",
+        "images": [
+          "/assets/images/imagegen.jpeg",
+      "/assets/images/imagegen1.jpeg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "25",
+    "name": "User_25",
+    "profile_picture": "https://randomuser.me/api/portraits/women/9.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "7",
+        "name": "Echinacea purpurea",
+        "images": [
+       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVVH7eODkzJy4kI_F64J7-ZeHbLAeGUbCZg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jQKDV1hnR_a3viuDAA2JM94SEiVCN1Fmgg&s"
+        ]
+      },
+      {
+        "plant_id": "4",
+        "name": "Aloe vera",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCl3AtMewWq9J3w6LMiNyVOYgS7fUaaaOQog&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpYW-XrWPkGER_H36hjurtGZvFwErJ6RviDQ&s"
+        ]
+      },
+      {
+        "plant_id": "17",
+        "name": "Alocasia amazonica",
+        "images": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCADPTtJBSbEbr-gn3Z0QD50fX3qgoyRXY6A&s",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/shutterstock_771557308Optimized-780x520.webp"
+        ]
+      },
+      {
+        "plant_id": "20",
+        "name": "Chlorophytum comosum",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUdoq9Z7VpI3-FhG5SmzzxRRjyhJeGZPkNgw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyoiSAfHm54uSK3KFGPE9LmQ7_up5cWG98yQ&s"
+        ]
+      },
+      {
+        "plant_id": "6",
+        "name": "Rosa rubiginosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBXy48jJVLHcyllGVfRGBPgYQ6Hv5KihFAw&s",
+      "https://images.immediate.co.uk/production/volatile/sites/10/2022/03/2048x1365-Rosa-rubiginosa-SEO-GettyImages-1248161866-67da3ca.jpeg"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "26",
+    "name": "User_26",
+    "profile_picture": "https://randomuser.me/api/portraits/women/68.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "10",
+        "name": "Acer palmatum",
+        "images": [
+      "https://cdn11.bigcommerce.com/s-sv0chyyd/images/stencil/1280x1280/products/1260/1852/Japanese_Maple__35536.1554458580.jpg?c=2",
+      "https://majestictrees.co.uk/cdn/shop/files/10040-acer-palmatum-dissectum-ornatum-8-600x600.jpg?v=1714124143&width=1445"
+        ]
+      },
+      {
+        "plant_id": "9",
+        "name": "Mentha spicata",
+        "images": [
+      "https://www.gardenia.net/wp-content/uploads/2023/04/NQpWP4wQGmuUTU3ESFfl7qGYeXABT7n2PV21IWKT-780x520.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl4Q9OE14E2yJ_nFEplFqbWh_hIGoRHuJKg&s"
+        ]
+      },
+      {
+        "plant_id": "16",
+        "name": "Helianthus annuus",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97EX_3Ky_ousYzwj8n92fKtqVUSSU53xVSw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXi_TU55UjYmmSoNBlvoe_jSoV_VnhCzO9ug&s"
+        ]
+      },
+      {
+        "plant_id": "6",
+        "name": "Rosa rubiginosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBBXy48jJVLHcyllGVfRGBPgYQ6Hv5KihFAw&s",
+      "https://images.immediate.co.uk/production/volatile/sites/10/2022/03/2048x1365-Rosa-rubiginosa-SEO-GettyImages-1248161866-67da3ca.jpeg"
+        ]
+      },
+      {
+        "plant_id": "7",
+        "name": "Echinacea purpurea",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVVH7eODkzJy4kI_F64J7-ZeHbLAeGUbCZg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jQKDV1hnR_a3viuDAA2JM94SEiVCN1Fmgg&s"
+        ]
+      },
+      {
+        "plant_id": "17",
+        "name": "Alocasia amazonica",
+        "images": [
+     "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCADPTtJBSbEbr-gn3Z0QD50fX3qgoyRXY6A&s",
+      "https://www.gardenia.net/wp-content/uploads/2023/04/shutterstock_771557308Optimized-780x520.webp"
+        ]
+      },
+      {
+        "plant_id": "3",
+        "name": "Lavandula angustifolia",
+        "images": [
+     "https://www.bomagardencentre.co.uk/files/images/webshop/lavandula-angustifolia-munstead-english-lavender-1024x1024-64b65191e433b_n.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtY5DDQLHV8pMVHVjl-WlituzhZgtXUr0JUg&s"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "27",
+    "name": "User_27",
+    "profile_picture": "https://randomuser.me/api/portraits/women/5.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "15",
+        "name": "Ocimum basilicum",
+        "images": [
+      "https://www.monaconatureencyclopedia.com/wp-content/uploads/2008/08/1-115.jpg",
+      "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/2274/688015ee62074cef86f35b62a3233f9f.jpg"
+        ]
+      },
+      {
+        "plant_id": "9",
+        "name": "Mentha spicata",
+        "images": [
+      "https://www.gardenia.net/wp-content/uploads/2023/04/NQpWP4wQGmuUTU3ESFfl7qGYeXABT7n2PV21IWKT-780x520.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl4Q9OE14E2yJ_nFEplFqbWh_hIGoRHuJKg&s"
+        ]
+      },
+      {
+        "plant_id": "2",
+        "name": "Ficus lyrata",
+        "images": [
+         "https://tohgarden.com/wp-content/uploads/2021/02/160597941_463558525003262_3468801024450206239_n.jpg",
+      "https://bowoodfarms.com/cdn/shop/products/Ficus-Lyrata-STD-10_2048x.png?v=1601927135"
+        ]
+      },
+      {
+        "plant_id": "3",
+        "name": "Lavandula angustifolia",
+        "images": [
+     "https://www.bomagardencentre.co.uk/files/images/webshop/lavandula-angustifolia-munstead-english-lavender-1024x1024-64b65191e433b_n.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtY5DDQLHV8pMVHVjl-WlituzhZgtXUr0JUg&s"
+        ]
+      },
+      {
+        "plant_id": "5",
+        "name": "Monstera deliciosa",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7We4bvbqBEbgTEMWIZ2NT6naX7mhzmGdl5A&s",
+      "https://www.ugaoo.com/cdn/shop/files/9_dac1c33d-00f2-469a-81f9-287d72f67a38.jpg?v=1710232846&width=1500"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "28",
+    "name": "User_28",
+    "profile_picture": "https://randomuser.me/api/portraits/women/79.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "13",
+        "name": "Sansevieria trifasciata",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx-w46oUZj89P37BL3ha094J0HqKT_HcmjBA&s",
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg/1200px-Snake_Plant_%28Sansevieria_trifasciata_%27Laurentii%27%29.jpg"
+        ]
+      },
+      {
+        "plant_id": "2",
+        "name": "Ficus lyrata",
+        "images": [
+         "https://tohgarden.com/wp-content/uploads/2021/02/160597941_463558525003262_3468801024450206239_n.jpg",
+      "https://bowoodfarms.com/cdn/shop/products/Ficus-Lyrata-STD-10_2048x.png?v=1601927135"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "29",
+    "name": "User_29",
+    "profile_picture": "https://randomuser.me/api/portraits/lego/6.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "7",
+        "name": "Echinacea purpurea",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVVH7eODkzJy4kI_F64J7-ZeHbLAeGUbCZg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8jQKDV1hnR_a3viuDAA2JM94SEiVCN1Fmgg&s"
+        ]
+      },
+      {
+        "plant_id": "15",
+        "name": "Ocimum basilicum",
+        "images": [
+      "https://www.monaconatureencyclopedia.com/wp-content/uploads/2008/08/1-115.jpg",
+      "https://www.nparks.gov.sg/-/media/ffw/migrated/round2/flora/2274/688015ee62074cef86f35b62a3233f9f.jpg"
+        ]
+      },
+      {
+        "plant_id": "16",
+        "name": "Helianthus annuus",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT97EX_3Ky_ousYzwj8n92fKtqVUSSU53xVSw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXi_TU55UjYmmSoNBlvoe_jSoV_VnhCzO9ug&s"
+        ]
+      }
+    ]
+  },
+  {
+    "user_id": "30",
+    "name": "User_30",
+    "profile_picture": "https://randomuser.me/api/portraits/lego/3.jpg",
+    "plants_owned": [
+      {
+        "plant_id": "11",
+        "name": "Agave americana",
+        "images": [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMjwSJ1a5nRG4xmR-j0BuSwRmWLrqLV8b1vg&s",
+      "https://www.clorofila.ma/wp-content/uploads/2023/03/5048481606_22d74dc696_b-2.jpg"
+        ]
+      },
+      {
+        "plant_id": "3",
+        "name": "Lavandula angustifolia",
+        "images": [
+     "https://www.bomagardencentre.co.uk/files/images/webshop/lavandula-angustifolia-munstead-english-lavender-1024x1024-64b65191e433b_n.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtY5DDQLHV8pMVHVjl-WlituzhZgtXUr0JUg&s"
+        ]
+      },
+      {
+        "plant_id": "9",
+        "name": "Mentha spicata",
+        "images": [
+      "https://www.gardenia.net/wp-content/uploads/2023/04/NQpWP4wQGmuUTU3ESFfl7qGYeXABT7n2PV21IWKT-780x520.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShl4Q9OE14E2yJ_nFEplFqbWh_hIGoRHuJKg&s"
+        ]
+      }
+    ]
+  }
+]
