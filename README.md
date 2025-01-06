@@ -1,6 +1,6 @@
-# PlantConnect: AI-Powered Plant Care & Community Platform
+# Green Haven: AI-Powered Plant Care & Community Platform
 
-**PlantConnect** is an AI-powered website that helps users learn about plants, identify them, and connect with others who share the same interest in plant care. Whether you're a seasoned gardener or a beginner, PlantConnect offers a fun, educational platform to explore the world of plants, receive plant care tips, and build a community with fellow plant enthusiasts.
+**Green Haven** is an AI-powered website that helps users learn about plants, identify them, and connect with others who share the same interest in plant care. Whether you're a seasoned gardener or a beginner, PlantConnect offers a fun, educational platform to explore the world of plants, receive plant care tips, and build a community with fellow plant enthusiasts.
 
 ## Features
 
