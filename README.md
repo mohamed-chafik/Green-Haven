@@ -1,22 +1,22 @@
 # Green Haven: AI-Powered Plant Care & Community Platform
 
-**[Green Haven](https://greenhaven1.netlify.app)** is an AI-powered website that helps users learn about plants, identify them, and connect with others who share the same interest in plant care. Whether you're a seasoned gardener or a beginner, PlantConnect offers a fun, educational platform to explore the world of plants, receive plant care tips, and build a community with fellow plant enthusiasts.
+[![Green Haven Screenshot](https://github.com/mohamed-chafik/Green-Haven/blob/master/assets/images/2025-07-15_11-14.png?raw=true)](https://greenhaven1.netlify.app)
 
-# Pictures
-![Alt text]([https://github.com/mohamed-chafik/Green-Haven/blob/master/assets/images/2025-07-15_11-14.png"https://github.com/mohamed-chafik/Green-Haven/blob/master/assets/images/2025-07-15_11-14.png"](https://github.com/mohamed-chafik/Green-Haven/blob/master/assets/images/2025-07-15_11-14.png))
+**[Green Haven](https://greenhaven1.netlify.app)** is an AI-powered website that helps users learn about plants, identify them, and connect with others who share the same interest in plant care. Whether you're a seasoned gardener or a beginner, Green Haven offers a fun, educational platform to explore the world of plants.
+
 ## Features
 
-- **AI Plant Identification**:  
-  Users can upload images of plants, and the website will identify them using AI, providing accurate plant names and care information.
+- **🌿 AI Plant Identification**  
+  Upload images of plants for instant AI identification with care information.
 
-- **Plant Care Information**:  
-  Each plant has a dedicated page with detailed care tips, including watering needs, sunlight requirements, ideal soil conditions, and more.
+- **💧 Plant Care Database**  
+  Detailed care guides for each plant including watering, sunlight, and soil needs.
 
-- **Community Interaction**:  
-  Users can see others who own the same plants, allowing them to share care tips, ask questions, and connect with fellow plant lovers.
+- **👥 Community Interaction**  
+  Connect with other plant owners to share tips and experiences.
 
-- **Personalized Profiles**:  
-  Users can create accounts to save their favorite plants, track their plant collection, and participate in discussions about plant care.
+- **📱 Personalized Profiles**  
+  Save your favorite plants and track your collection.
 
-- **Ongoing Learning**:  
-  Regular updates on plant care practices, new plants, and features are added to enhance the user experience and knowledge.
+- **📚 Ongoing Learning**  
+  Regular updates with new plants and care techniques.
