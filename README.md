@@ -3,7 +3,7 @@
 **[Green Haven](https://greenhaven1.netlify.app)** is an AI-powered website that helps users learn about plants, identify them, and connect with others who share the same interest in plant care. Whether you're a seasoned gardener or a beginner, PlantConnect offers a fun, educational platform to explore the world of plants, receive plant care tips, and build a community with fellow plant enthusiasts.
 
 # Pictures
-![Alt text]("https://github.com/mohamed-chafik/Green-Haven/blob/master/assets/images/2025-07-15_11-14.png")
+![Alt text](https://github.com/mohamed-chafik/Green-Haven/blob/master/assets/images/2025-07-15_11-14.png"https://github.com/mohamed-chafik/Green-Haven/blob/master/assets/images/2025-07-15_11-14.png")
 ## Features
 
 - **AI Plant Identification**:  
